@@ -1,0 +1,18 @@
+# Data analysis & visualization
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+
+# Text preprocessing
+nltk
+swifter
+sastrawi
+
+# Modeling - Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+
+# Inference
+joblib
