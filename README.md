@@ -51,7 +51,7 @@ Dataset berupa ulasan aplikasi yang dikategorikan dalam tiga label sentimen:
 
 ## 🔍Keterangan File
 - Scrapping -> Notebook ipynb berisi scrapping mandiri dari google app store aplikasi traveloka
-- Pelatihan Model -> Notebook ipynb berisi load data scrapping, cleaning, text preprocessing, dan pelatihan model ML dan DL
+- Pelatihan_Model_Analisis_Sentimen -> Notebook ipynb berisi load data scrapping, cleaning, text preprocessing, dan pelatihan model ML dan DL
 - Inference -> Notebook ipynb berisi inference/testing ulasan baru sentimen positif, negatif, netral
 - Traveloka_reviews -> dataset dalam csv yang digunakan
 - lstm_model_traveloka.h5 -> Hasil download model lstm yang digunakan dalam membangun model (untuk di load pada notebook Inference)
